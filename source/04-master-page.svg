@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842">
+<title>Master page elements</title>
+<g id="header"><circle cx="70" cy="60" r="18" fill="#e4572e"/><line x1="100" y1="60" x2="545" y2="60" stroke="#29335c" stroke-width="1.5"/><text x="545" y="50" font-family="Fira Sans" font-size="11" font-weight="400" text-anchor="end" fill="#2e282a">Sample document</text></g>
+<g id="footer"><line x1="50" y1="790" x2="545" y2="790" stroke="#29335c" stroke-width="1"/><text x="50" y="808" font-family="Fira Sans" font-size="9" font-weight="400" text-anchor="start" fill="#2e282a">CC0 sample for photocraft#1606</text><text x="545" y="808" font-family="Fira Sans" font-size="9" font-weight="400" text-anchor="end" fill="#2e282a">Page #</text></g>
+</svg>

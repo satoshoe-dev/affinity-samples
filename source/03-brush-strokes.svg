@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Brush strokes</title>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Brush strokes</text>
+<path id="guide-1" d="M 120 140 C 350 50, 600 230, 850 140 S 1050 100, 1100 140" fill="none" stroke="#bbb" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="120" y="100" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="start" fill="#2e282a">Pixel brush, pressure</text>
+<path id="guide-2" d="M 120 310 C 350 220, 600 400, 850 310 S 1050 270, 1100 310" fill="none" stroke="#bbb" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="120" y="270" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="start" fill="#2e282a">Vector brush, pressure</text>
+<path id="guide-3" d="M 120 480 C 350 390, 600 570, 850 480 S 1050 440, 1100 480" fill="none" stroke="#bbb" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="120" y="440" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="start" fill="#2e282a">Vector brush, no pressure</text>
+<path id="guide-4" d="M 120 650 C 350 560, 600 740, 850 650 S 1050 610, 1100 650" fill="none" stroke="#bbb" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="120" y="610" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="start" fill="#2e282a">Pixel eraser over a stroke</text>
+</svg>

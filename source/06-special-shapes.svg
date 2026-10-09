@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Special shapes (draw with Affinity's shape tools in each cell)</title>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Special shapes (draw with Affinity's shape tools in each cell)</text>
+<rect x="8.0" y="46.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="150.0" y="214.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Cloud</text>
+<rect x="308.0" y="46.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="450.0" y="214.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Heart</text>
+<rect x="608.0" y="46.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="750.0" y="214.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Cog</text>
+<rect x="908.0" y="46.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="1050.0" y="214.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Callout rounded</text>
+<rect x="8.0" y="236.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="150.0" y="404.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Callout ellipse</text>
+<rect x="308.0" y="236.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="450.0" y="404.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Arrow</text>
+<rect x="608.0" y="236.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="750.0" y="404.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Double star</text>
+<rect x="908.0" y="236.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="1050.0" y="404.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Tear</text>
+<rect x="8.0" y="426.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="150.0" y="594.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Crescent</text>
+<rect x="308.0" y="426.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="450.0" y="594.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Donut</text>
+<rect x="608.0" y="426.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="750.0" y="594.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Pie</text>
+<rect x="908.0" y="426.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="1050.0" y="594.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Segment</text>
+<rect x="8.0" y="616.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="150.0" y="784.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Diamond</text>
+<rect x="308.0" y="616.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="450.0" y="784.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Trapezoid</text>
+<rect x="608.0" y="616.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="750.0" y="784.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Square star</text>
+<rect x="908.0" y="616.0" width="284.0" height="178.0" fill="none" stroke="#ccc"/>
+<text x="1050.0" y="784.0" font-family="Fira Sans" font-size="16" font-weight="400" text-anchor="middle" fill="#2e282a">Polygon</text>
+</svg>

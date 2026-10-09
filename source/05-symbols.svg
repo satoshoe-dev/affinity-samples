@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Symbols and embedded documents</title>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Symbols and embedded documents</text>
+<g id="flower" transform="translate(220 260)"><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(0)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(45)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(90)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(135)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(180)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(225)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(270)"/><ellipse cx="0" cy="-34" rx="14" ry="30" fill="#f3a712" transform="rotate(315)"/><circle r="16" fill="#8f2d56"/></g>
+<text x="220" y="380" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Make this a symbol, place 3 instances</text>
+<text x="800" y="380" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Place 05b-embedded.svg here as embedded document</text>
+<rect x="560" y="120" width="480" height="220" fill="none" stroke="#bbb" stroke-dasharray="8 6"/>
+<text x="600.0" y="560" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Instance 2: recolour centre (override)   Instance 3: scale 150 %</text>
+</svg>

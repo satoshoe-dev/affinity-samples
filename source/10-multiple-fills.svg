@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Several fills and strokes on one object</title>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Several fills and strokes on one object</text>
+<g id="2-fills">
+<rect x="86.0" y="126.8" width="228.0" height="182.4" fill="#e4572e"/>
+<text x="200.0" y="406.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">2 fills</text>
+</g>
+<g id="2-strokes">
+<rect x="486.0" y="126.8" width="228.0" height="182.4" fill="#f3a712"/>
+<text x="600.0" y="406.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">2 strokes</text>
+</g>
+<g id="fill-+-2-strokes">
+<rect x="886.0" y="126.8" width="228.0" height="182.4" fill="#29335c"/>
+<text x="1000.0" y="406.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Fill + 2 strokes</text>
+</g>
+<g id="gradient-over-solid-fill">
+<rect x="86.0" y="506.8" width="228.0" height="182.4" fill="#669bbc"/>
+<text x="200.0" y="786.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Gradient over solid fill</text>
+</g>
+<g id="stroke-inside-+-outside">
+<rect x="486.0" y="506.8" width="228.0" height="182.4" fill="#17bebb"/>
+<text x="600.0" y="786.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Stroke inside + outside</text>
+</g>
+<g id="3-fills,-middle-hidden">
+<rect x="886.0" y="506.8" width="228.0" height="182.4" fill="#8f2d56"/>
+<text x="1000.0" y="786.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">3 fills, middle hidden</text>
+</g>
+</svg>

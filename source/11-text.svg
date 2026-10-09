@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Text</title>
+<defs><path id="bogen" d="M 640 300 A 220 140 0 0 1 1080 300"/></defs>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Text</text>
+<text x="80" y="120" font-family="Fira Sans" font-size="48" font-weight="700" text-anchor="start" fill="#29335c" id="outlined">Outlined text</text>
+<text x="80" y="150" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="start" fill="#2e282a">convert to curves</text>
+<text x="80" y="260" font-family="Fira Sans" font-size="48" font-weight="400" text-anchor="start" fill="#8f2d56" id="scaled" transform="matrix(0.6 0 0 1 32 0)">Scaled text</text>
+<text x="80" y="290" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="start" fill="#2e282a">horizontal scale 60 %</text>
+<text id="on-path" font-family="Fira Sans" font-size="28" font-weight="400" fill="#e4572e"><textPath href="#bogen" xlink:href="#bogen">Text on a curved path</textPath></text>
+<use href="#bogen" xlink:href="#bogen" fill="none" stroke="#ccc"/>
+<text x="860" y="330" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">text on path</text>
+<text id="columns" font-family="Fira Sans" font-size="15" font-weight="400" fill="#2e282a">
+<tspan x="80" y="420">PhotoCraft reads Affinity documents. This frame has two columns and a</tspan>
+<tspan x="80" y="442">gutter of twelve points, so the text flows from the left column into</tspan>
+<tspan x="80" y="464">the right one. It is long enough to fill both columns at this size.</tspan>
+<tspan x="80" y="486">Kerning, tracking and leading stay at their defaults. The last line</tspan>
+<tspan x="80" y="508">ends here.</tspan>
+</text>
+<text x="80" y="400" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="start" fill="#2e282a">paste into a frame with 2 columns</text>
+<text x="700" y="420" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="start" fill="#2e282a">Field: page number</text>
+<text x="700" y="480" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="start" fill="#2e282a">Field: file name</text>
+<text x="700" y="540" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="start" fill="#2e282a">Frame with an elliptical outline</text>
+<ellipse cx="900" cy="660" rx="200" ry="100" fill="none" stroke="#ccc" stroke-dasharray="6 4"/>
+</svg>

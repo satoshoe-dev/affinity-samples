@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Colour formats test chart</title>
+<defs><linearGradient id="verlauf" x1="0" x2="1"><stop offset="0" stop-color="#00ffff"/><stop offset="0.5" stop-color="#ff00ff"/><stop offset="1" stop-color="#ffff00"/></linearGradient></defs>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Colour formats test chart</text>
+<rect x="60" y="80" width="120" height="120" fill="#ff0000" stroke="#999"/>
+<text x="120" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#ff0000</text>
+<rect x="195" y="80" width="120" height="120" fill="#00ff00" stroke="#999"/>
+<text x="255" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#00ff00</text>
+<rect x="330" y="80" width="120" height="120" fill="#0000ff" stroke="#999"/>
+<text x="390" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#0000ff</text>
+<rect x="465" y="80" width="120" height="120" fill="#00ffff" stroke="#999"/>
+<text x="525" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#00ffff</text>
+<rect x="600" y="80" width="120" height="120" fill="#ff00ff" stroke="#999"/>
+<text x="660" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#ff00ff</text>
+<rect x="735" y="80" width="120" height="120" fill="#ffff00" stroke="#999"/>
+<text x="795" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#ffff00</text>
+<rect x="870" y="80" width="120" height="120" fill="#000000" stroke="#999"/>
+<text x="930" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#000000</text>
+<rect x="1005" y="80" width="120" height="120" fill="#ffffff" stroke="#999"/>
+<text x="1065" y="225" font-family="Fira Sans" font-size="14" font-weight="400" text-anchor="middle" fill="#2e282a">#ffffff</text>
+<rect x="60.0" y="270" width="51.4" height="100" fill="rgb(0,0,0)"/>
+<rect x="111.4" y="270" width="51.4" height="100" fill="rgb(13,13,13)"/>
+<rect x="162.8" y="270" width="51.4" height="100" fill="rgb(26,26,26)"/>
+<rect x="214.2" y="270" width="51.4" height="100" fill="rgb(38,38,38)"/>
+<rect x="265.6" y="270" width="51.4" height="100" fill="rgb(51,51,51)"/>
+<rect x="317.0" y="270" width="51.4" height="100" fill="rgb(64,64,64)"/>
+<rect x="368.4" y="270" width="51.4" height="100" fill="rgb(76,76,76)"/>
+<rect x="419.8" y="270" width="51.4" height="100" fill="rgb(89,89,89)"/>
+<rect x="471.2" y="270" width="51.4" height="100" fill="rgb(102,102,102)"/>
+<rect x="522.6" y="270" width="51.4" height="100" fill="rgb(115,115,115)"/>
+<rect x="574.0" y="270" width="51.4" height="100" fill="rgb(128,128,128)"/>
+<rect x="625.4" y="270" width="51.4" height="100" fill="rgb(140,140,140)"/>
+<rect x="676.8" y="270" width="51.4" height="100" fill="rgb(153,153,153)"/>
+<rect x="728.2" y="270" width="51.4" height="100" fill="rgb(166,166,166)"/>
+<rect x="779.6" y="270" width="51.4" height="100" fill="rgb(178,178,178)"/>
+<rect x="831.0" y="270" width="51.4" height="100" fill="rgb(191,191,191)"/>
+<rect x="882.4" y="270" width="51.4" height="100" fill="rgb(204,204,204)"/>
+<rect x="933.8" y="270" width="51.4" height="100" fill="rgb(217,217,217)"/>
+<rect x="985.2" y="270" width="51.4" height="100" fill="rgb(230,230,230)"/>
+<rect x="1036.6" y="270" width="51.4" height="100" fill="rgb(242,242,242)"/>
+<rect x="1088.0" y="270" width="51.4" height="100" fill="rgb(255,255,255)"/>
+<rect x="60" y="420" width="1080" height="140" fill="url(#verlauf)"/>
+<text x="600.0" y="640" font-family="Fira Sans" font-size="18" font-weight="400" text-anchor="middle" fill="#2e282a">Save as: RGB 16-bit, RGB 32-bit, CMYK 8-bit, Lab 16-bit, Grey 8-bit</text>
+</svg>

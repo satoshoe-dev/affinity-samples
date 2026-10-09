@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Transparency</title>
+<defs><linearGradient id="alpha" x1="0" x2="1"><stop offset="0" stop-color="#29335c" stop-opacity="1"/><stop offset="1" stop-color="#29335c" stop-opacity="0"/></linearGradient><pattern id="muster" width="32" height="32" patternUnits="userSpaceOnUse"><image href="07-texture.png" xlink:href="07-texture.png" width="32" height="32"/></pattern></defs>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Transparency</text>
+<rect x="0" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="100" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="200" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="300" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="400" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="500" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="600" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="700" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="800" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="900" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="1000" y="40" width="50" height="760" fill="#ddd"/>
+<rect x="1100" y="40" width="50" height="760" fill="#ddd"/>
+<rect id="fill-opacity-50-pc" x="70.0" y="125.0" width="260" height="180" fill="#e4572e" fill-opacity="0.5"/>
+<text x="200.0" y="400.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Fill opacity 50 %</text>
+<rect id="layer-opacity-50-pc" x="470.0" y="125.0" width="260" height="180" fill="#e4572e" opacity="0.5"/>
+<text x="600.0" y="400.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Layer opacity 50 %</text>
+<rect id="gradient-fill-with-alpha" x="870.0" y="125.0" width="260" height="180" fill="url(#alpha)"/>
+<text x="1000.0" y="400.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Gradient fill with alpha</text>
+<rect id="transparency-tool" x="70.0" y="505.0" width="260" height="180" fill="#e4572e"/>
+<text x="200.0" y="780.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Transparency tool (linear)</text>
+<rect id="transparency-tool" x="470.0" y="505.0" width="260" height="180" fill="#e4572e"/>
+<text x="600.0" y="780.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Transparency tool (radial)</text>
+<rect id="bitmap-fill" x="870.0" y="505.0" width="260" height="180" fill="url(#muster)"/>
+<text x="1000.0" y="780.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Bitmap fill (07-texture.png)</text>
+</svg>

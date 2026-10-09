@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Affinity-only blend modes</title>
+<defs><linearGradient id="unten" x1="0" x2="1"><stop offset="0" stop-color="#29335c"/><stop offset="0.5" stop-color="#17bebb"/><stop offset="1" stop-color="#f4f1ea"/></linearGradient></defs>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Affinity-only blend modes</text>
+<g id="normal">
+<rect x="50.0" y="115.0" width="300" height="200" fill="url(#unten)"/>
+<circle cx="200.0" cy="215.0" r="80" fill="#e4572e"/>
+</g>
+<text x="200.0" y="400.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Normal (reference)</text>
+<g id="average">
+<rect x="450.0" y="115.0" width="300" height="200" fill="url(#unten)"/>
+<circle cx="600.0" cy="215.0" r="80" fill="#e4572e"/>
+</g>
+<text x="600.0" y="400.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Average: set on the circle</text>
+<g id="negation">
+<rect x="850.0" y="115.0" width="300" height="200" fill="url(#unten)"/>
+<circle cx="1000.0" cy="215.0" r="80" fill="#e4572e"/>
+</g>
+<text x="1000.0" y="400.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Negation: set on the circle</text>
+<g id="reflect">
+<rect x="50.0" y="495.0" width="300" height="200" fill="url(#unten)"/>
+<circle cx="200.0" cy="595.0" r="80" fill="#e4572e"/>
+</g>
+<text x="200.0" y="780.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Reflect: set on the circle</text>
+<g id="glow">
+<rect x="450.0" y="495.0" width="300" height="200" fill="url(#unten)"/>
+<circle cx="600.0" cy="595.0" r="80" fill="#e4572e"/>
+</g>
+<text x="600.0" y="780.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Glow: set on the circle</text>
+<g id="erase">
+<rect x="850.0" y="495.0" width="300" height="200" fill="url(#unten)"/>
+<circle cx="1000.0" cy="595.0" r="80" fill="#e4572e"/>
+</g>
+<text x="1000.0" y="780.0" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Erase: set on the circle</text>
+</svg>

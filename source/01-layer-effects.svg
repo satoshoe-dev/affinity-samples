@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+<title>Layer effects and live filters</title>
+<rect id="background" width="1200" height="800" fill="#f4f1ea"/>
+<text x="600.0" y="30" font-family="Fira Sans" font-size="22" font-weight="400" text-anchor="middle" fill="#2e282a">Layer effects and live filters</text>
+<g id="outer-shadow">
+<circle cx="150.0" cy="154.7" r="76.0" fill="#e4572e"/>
+<text x="150.0" y="279.33333333333337" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Outer shadow</text>
+</g>
+<g id="inner-shadow">
+<circle cx="450.0" cy="154.7" r="76.0" fill="#f3a712"/>
+<text x="450.0" y="279.33333333333337" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Inner shadow</text>
+</g>
+<g id="outer-glow">
+<circle cx="750.0" cy="154.7" r="76.0" fill="#29335c"/>
+<text x="750.0" y="279.33333333333337" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Outer glow</text>
+</g>
+<g id="inner-glow">
+<circle cx="1050.0" cy="154.7" r="76.0" fill="#669bbc"/>
+<text x="1050.0" y="279.33333333333337" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Inner glow</text>
+</g>
+<g id="outline">
+<circle cx="150.0" cy="408.0" r="76.0" fill="#17bebb"/>
+<text x="150.0" y="532.6666666666667" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Outline</text>
+</g>
+<g id="bevel-emboss">
+<circle cx="450.0" cy="408.0" r="76.0" fill="#8f2d56"/>
+<text x="450.0" y="532.6666666666667" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Bevel/Emboss</text>
+</g>
+<g id="3d">
+<circle cx="750.0" cy="408.0" r="76.0" fill="#76b041"/>
+<text x="750.0" y="532.6666666666667" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">3D</text>
+</g>
+<g id="gaussian-blur">
+<circle cx="1050.0" cy="408.0" r="76.0" fill="#ffc914"/>
+<text x="1050.0" y="532.6666666666667" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Gaussian blur</text>
+</g>
+<g id="colour-overlay">
+<circle cx="150.0" cy="661.3" r="76.0" fill="#2e282a"/>
+<text x="150.0" y="786.0000000000001" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Colour overlay</text>
+</g>
+<g id="gradient-overlay">
+<circle cx="450.0" cy="661.3" r="76.0" fill="#c05746"/>
+<text x="450.0" y="786.0000000000001" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Gradient overlay</text>
+</g>
+<g id="live-gaussian-blur">
+<circle cx="750.0" cy="661.3" r="76.0" fill="#4c6085"/>
+<text x="750.0" y="786.0000000000001" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Live Gaussian blur</text>
+</g>
+<g id="live-noise">
+<circle cx="1050.0" cy="661.3" r="76.0" fill="#e0a890"/>
+<text x="1050.0" y="786.0000000000001" font-family="Fira Sans" font-size="17" font-weight="400" text-anchor="middle" fill="#2e282a">Live noise</text>
+</g>
+</svg>
